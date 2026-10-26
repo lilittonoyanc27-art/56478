@@ -1,0 +1,8 @@
+{
+  "name": "Literatura 1.º ESO — Spanish & Armenian Interactive Study Hub",
+  "description": "Իսպաներենի և Գրականության ուսումնական ինտերակտիվ հավելված (1.º ESO)։ Սեղմեք իսպաներեն տեքստի վրա՝ հայերեն թարգմանությունը տեսնելու համար։ Թեստեր, բառարան և քննական վարժություններ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
